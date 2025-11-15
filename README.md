@@ -73,26 +73,6 @@ I am an MCA graduate and aspiring software developer with experience in building
 
 <hr/>
 
-<h2>🚀 Projects</h2>
-
-<h3>🟦 MetroEase – Shortest Route Finder</h3>
-<p>A Spring Boot application that calculates shortest metro routes using Dijkstra’s Algorithm.</p>
-<ul>
-  <li>REST APIs for route & fare calculation.</li>
-  <li>Dynamic fare estimation based on station count.</li>
-  <li>HTML, CSS, JS UI for route results.</li>
-</ul>
-
-<h3>🧑‍🎓 AlumniLink – Alumni Networking System</h3>
-<p>A full-stack platform built using Spring Boot + Thymeleaf + MySQL.</p>
-<ul>
-  <li>Secure login & registration with college-based authentication.</li>
-  <li>Post system for general, hiring, and event categories.</li>
-  <li>Logging, JPA operations, and structured exception handling.</li>
-</ul>
-
-<hr/>
-
 <h2>🎓 Education</h2>
 <ul>
   <li><strong>MCA</strong>, GGSIPU (2023–2025) – 79.2%</li>
