@@ -61,9 +61,9 @@ I am an MCA graduate and aspiring software developer with experience in building
 
 <hr/>
 
-<h2>💼 Experience</h2>
+<h2>💼 Work Experience</h2>
 
-<h3>Backend Intern – M1Xchange (Feb 2025 – July 2025)</h3>
+<h3>Software Developer Intern – M1xchange</h3>
 <ul>
   <li>Developed and optimized REST APIs in Spring Boot.</li>
   <li>Integrated SQL Server stored procedures and enhanced backend reliability.</li>
