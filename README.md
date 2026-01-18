@@ -93,12 +93,11 @@ I am an MCA graduate and aspiring software developer with experience in building
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankurgupta9&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurgupta9&theme=tokyonight"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ankurgupta9&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurgupta9&layout=compact&theme=tokyonight"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurgupta9&layout=compact&theme=tokyonight"/>
 </p>
 
 <hr />
